@@ -21,7 +21,7 @@ violations. We used features measuring social emotions, norm violation, and two 
 automatic rule discovery.
 
 * Using this approach, we identifed seven simple models (i.e., mathematical functions/rules) that can be used
-for classifying cases involving norm violation/confrmation.
+for classifying cases involving norm violation/conformation.
 
 * In the two major experiments, we used simple models and applied them to classify norm violations in two
 other massive datasets. Finally, we test our ability to identify which norm has been violated.

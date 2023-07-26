@@ -7,7 +7,7 @@ violation](https://www.nature.com/articles/s41598-023-35350-x)" (2023).
 
 This research seems to provide evidence "that even complex social situations can be functionally analyzed through modern computational tools." The authors describe their workflow as follows:
 
-* First, using zero-shot classifcation, we tested our ability to automatically identify social emotions in short
+* First, using zero-shot classification, we tested our ability to automatically identify social emotions in short
 textual data.
 
 * Next, we used GPT-3 for generating synthetic data and identifying violated social norms through human

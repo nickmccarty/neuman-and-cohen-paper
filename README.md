@@ -1,6 +1,6 @@
 # Identifying Social Norms Using GPT3, NLI-based Zero Shot Text Classifcation and Automatic Rule Discovery
 
-This repo is dedicated to replicatation of the workflow described in Neuman and Cohen's "[AI for identifying social norm
+This repo is dedicated to replication of the workflow described in Neuman and Cohen's "[AI for identifying social norm
 violation](https://www.nature.com/articles/s41598-023-35350-x)" (2023).
 
 ## Overview

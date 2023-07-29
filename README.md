@@ -29,5 +29,8 @@ other massive datasets. Finally, we test our ability to identify which norm has 
 <a href="https://colab.research.google.com/drive/1M-J2uF8CJ4SwgBB35G1RQPK9aQdBCS7G?usp=sharing#offline=true&sandboxMode=true">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-<br>
-<p>☝🏼 Initial exploratory work</p>
+<p>☝🏼 EDA</p>
+<p>👇🏼 Model Validation</p>
+<a href="https://colab.research.google.com/drive/1uWh61izoK_LiNmvKjcoq3pjbYBEUGa2d?usp=sharing#offline=true&sandboxMode=true">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
